@@ -4,4 +4,4 @@
   <project path="vendor/xiaomi" name="TheStrix/proprietary_vendor_xiaomi" remote="github" revision="cm-14.0" />
   <project path="kernel/xiaomi/msm8956" name="AKabhishek/android_kernel_xiaomi_msm8956" remote="github" revision="n-test" />
   <project path="hardware/cyanogen" name="CyanogenMod/android_hardware_cyanogen" remote="github" revision="cm-14.0" />
-</manifest>
+</manifest>To
