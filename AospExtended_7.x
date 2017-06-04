@@ -6,4 +6,5 @@
   <project path="kernel/xiaomi/msm8956" name="AmolAmrit/Escrima_kernel_xiaomi_msm8956" remote="github" revision="n2" />
   <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" remote="github" revision="cm-14.1" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
+  <project path="prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_3.8/prebuilt/linux-x86_64" name="ThankYouMario/proprietary_vendor_qcom_sdclang-3.8_linux-x86" remote="github" revision="nougat-mr1" />
 </manifest>
