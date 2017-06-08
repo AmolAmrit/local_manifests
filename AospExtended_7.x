@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" remote="github" revision="cm-14.1" />
   <project path="device/xiaomi/kenzo" name="AmolAmrit/device_xiaomi_kenzo" remote="github" revision="n" />
   <project path="device/xiaomi/msm8956-common" name="AmolAmrit/device_xiaomi_msm8956-common" remote="github" revision="n" />
   <project path="vendor/xiaomi" name="AmolAmrit/proprietary_vendor_xiaomi" remote="github" revision="n2" />
