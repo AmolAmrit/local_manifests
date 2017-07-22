@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="packages/apps/Snap" name="AmolAmrit/packages_apps_SnapdragonCamera" remote="github" revision="n2" />
+  <project path="packages/apps/Snap" name="AmolAmrit/packages_apps_SnapdragonCamera" remote="github" revision="n3" />
   <project path="device/xiaomi/kenzo" name="AmolAmrit/device_xiaomi_kenzo" remote="github" revision="n" />
   <project path="device/xiaomi/msm8956-common" name="AmolAmrit/device_xiaomi_msm8956-common" remote="github" revision="n" />
   <project path="vendor/xiaomi" name="AmolAmrit/proprietary_vendor_xiaomi" remote="github" revision="n2" />
