@@ -7,7 +7,7 @@
   <project path="kernel/xiaomi/msm8956" name="AmolAmrit/Escrima_kernel_xiaomi_msm8956" remote="github" revision="n2" />
   
  <!--Packages-->  
-  <remove-project path="packages/apps/SnapdragonCamera" />
+  <remove-project path="packages/apps/SnapdragonCamera" name="packages_apps_SnapdragonCamera" remote="aosp-jf" />
   <project path="packages/apps/SnapdragonCamera" name="AmolAmrit/packages_apps_SnapdragonCamera" remote="github" revision="n3" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
   </manifest>
