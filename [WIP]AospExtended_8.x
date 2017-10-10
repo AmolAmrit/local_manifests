@@ -11,9 +11,9 @@
  <remove-project path="hardware/qcom/display-caf/msm8952" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="los" revision="lineage-15.0-caf-8952" />
  <remove-project path="hardware/qcom/media-caf/msm8952" name="android_hardware_qcom_media" groups="qcom,pdk" remote="los" revision="lineage-15.0-caf-8952" />
  
- <project path="hardware/qcom/audio-caf/msm8952" name="AmolAmrit/android_hardware_qcom_audio" revision="lineage-15.0-caf-8952" />
- <project path="hardware/qcom/display-caf/msm8952" name="AmolAmrit/android_hardware_qcom_display" revision="lineage-15.0-caf-8952" />
- <project path="hardware/qcom/media-caf/msm8952" name="AmolAmrit/android_hardware_qcom_media" revision="lineage-15.0-caf-8952" />
+ <project path="hardware/qcom/audio-caf/msm8952" name="AmolAmrit/android_hardware_qcom_audio" remote="github" revision="lineage-15.0-caf-8952" />
+ <project path="hardware/qcom/display-caf/msm8952" name="AmolAmrit/android_hardware_qcom_display" remote="github" revision="lineage-15.0-caf-8952" />
+ <project path="hardware/qcom/media-caf/msm8952" name="AmolAmrit/android_hardware_qcom_media" remote="github" revision="lineage-15.0-caf-8952" />
  
  <!--Packages-->  
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.0" />
