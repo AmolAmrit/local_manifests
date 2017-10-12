@@ -14,6 +14,7 @@
  <project path="hardware/qcom/audio-caf/msm8952" name="AmolAmrit/android_hardware_qcom_audio" remote="github" revision="lineage-15.0-caf-8952" />
  <project path="hardware/qcom/display-caf/msm8952" name="AmolAmrit/android_hardware_qcom_display" remote="github" revision="lineage-15.0-caf-8952" />
  <project path="hardware/qcom/media-caf/msm8952" name="AmolAmrit/android_hardware_qcom_media" remote="github" revision="lineage-15.0-caf-8952" />
+ <project path="hardware/cyanogen" name="AmolAmrit/android_hardware_cyanogen" remote="github" revision="oreo" />
  
  <!--Packages-->  
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.0" />
