@@ -16,6 +16,4 @@
  <project path="hardware/qcom/display-caf/msm8952" name="AmolAmrit/android_hardware_qcom_display" remote="github" revision="pie" />
  <project path="hardware/qcom/media-caf/msm8952" name="AmolAmrit/android_hardware_qcom_media" remote="github" revision="pie" />
 
- <!--Packages-->  
-  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
