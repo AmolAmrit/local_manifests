@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!--Device Trees-->
+  <project path="device/oneplus/avicii" name="AmolAmrit/device_oneplus_avicii" remote="github" revision="twelve"/>
+  <project path="device/oneplus/sm7250-common" name="AmolAmrit/device_oneplus_sm7250-common" remote="github" revision="twelve"/>
+  <project path="device/oneplus/extras" name="AmolAmrit/device_oneplus_extras" remote="github" revision="twelve"/>
+  <project path="hardware/oneplus" name="AospExtended-Devices/hardware_oneplus" remote="github" revision="12.x-lito"/>
+ 
+ <!--Vendor-->
+  <project path="vendor/oneplus/sm7250-common" name="AmolAmrit/vendor_oneplus_sm7250-common" remote="gitlab" revision="twelve"/>
+  <project path="vendor/oneplus/avicii" name="AmolAmrit/vendor_oneplus_avicii" remote="gitlab" revision="twelve"/>
+  <project path="vendor/oneplus/firmware" name="AmolAmrit/vendor_oneplus-firmware" remote="gitlab" revision="twelve"/>
+  
+ <!--Kernel-->
+  <project path="kernel/oneplus/sm7250" name="PixelExperience-Devices/kernel_oneplus_sm7250" remote="github" revision="eleven-wip"/>
+
+ <!--Packages-->
+  <project path="packages/resources/devicesettings" name="AospExtended/platform_packages_resources_devicesettings" remote="github" revision="12.x"/>
+ 
+</manifest>
