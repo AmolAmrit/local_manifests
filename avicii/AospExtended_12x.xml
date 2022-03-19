@@ -10,6 +10,7 @@
  <!--Vendor-->
   <project path="vendor/oneplus/sm7250-common" name="AmolAmrit/vendor_oneplus_sm7250-common" remote="gitlab" revision="twelve"/>
   <project path="vendor/oneplus/avicii" name="AmolAmrit/vendor_oneplus_avicii" remote="gitlab" revision="twelve"/>
+  <project path="vendor/oneplus/wfdcommon" name="AmolAmrit/vendor_oneplus_wfdcommon" remote="gitlab" revision="twelve"/>
   <project path="vendor/oneplus/firmware" name="AmolAmrit/vendor_oneplus-firmware" remote="gitlab" revision="twelve"/>
   
  <!--Kernel-->
