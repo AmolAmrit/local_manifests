@@ -17,6 +17,6 @@
   <project path="kernel/oneplus/sm7250" name="PixelExperience-Devices/kernel_oneplus_sm7250" remote="github" revision="eleven-wip"/>
 
  <!--Packages-->
-  <project path="packages/resources/devicesettings" name="AospExtended/platform_packages_resources_devicesettings" remote="github" revision="12.x"/>
+  <!-- project path="packages/resources/devicesettings" name="AospExtended/platform_packages_resources_devicesettings" remote="github" revision="12.x" -->
  
 </manifest>
