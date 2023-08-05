@@ -8,12 +8,12 @@
           fetch="https://gitlab.com/" />
 
  <!--Device Trees-->
-  <project path="device/oneplus/avicii" name="AmolAmrit/device_oneplus_avicii" remote="github" revision="13.0"/>
-  <project path="hardware/oplus" name="AmolAmrit/hardware_oplus" remote="github" revision="13.0"/>
+  <project path="device/oneplus/avicii" name="AmolAmrit/device_oneplus_avicii" remote="github" revision="typhoon"/>
+  
  
  <!--Vendor-->
-  <project path="vendor/oneplus/avicii" name="AmolAmrit/vendor_oneplus_avicii" remote="gitlab" revision="13.0"/>
-  <project path="vendor/oneplus/firmware" name="AmolAmrit/vendor_oneplus-firmware" remote="gitlab" revision="thirteen"/>
+  <project path="vendor/oneplus/avicii" name="AmolAmrit/vendor_oneplus_avicii" remote="gitlab" revision="typhoon"/>
+  <project path="vendor/oneplus/firmware" name="AmolAmrit/vendor_oneplus-firmware" remote="gitlab" revision="typhoon"/>
   
  <!--Kernel-->
   <project path="kernel/oneplus/sm7250" name="AmolAmrit/Escrima_kernel_oneplus_sm7250" remote="github" revision="thirteen"/>
