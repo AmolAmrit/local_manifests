@@ -9,8 +9,9 @@
 
  <!--Device Trees-->
   <project path="device/oneplus/avicii" name="AmolAmrit/device_oneplus_avicii" remote="github" revision="typhoon"/>
+  <project path="hardware/oplus" name="BlissRoms-Devices/android_hardware_oplus" remote="github" revision="typhoon"/>  
   
- 
+
  <!--Vendor-->
   <project path="vendor/oneplus/avicii" name="AmolAmrit/vendor_oneplus_avicii" remote="gitlab" revision="typhoon"/>
   <project path="vendor/oneplus/firmware" name="AmolAmrit/vendor_oneplus-firmware" remote="gitlab" revision="typhoon"/>
