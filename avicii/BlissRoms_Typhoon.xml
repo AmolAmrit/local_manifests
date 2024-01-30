@@ -12,7 +12,7 @@
   <project path="hardware/oplus" name="BlissRoms-Devices/android_hardware_oplus" remote="github" revision="typhoon"/>  
 
  <!--Packages-->
- <project path="packages/apps/OPlusExtras" name="AmolAmrit/packages_apps_OPlusExtras" remote="github" revision="bliss-t"/>
+ <project path="packages/apps/OPlusExtras" name="AmolAmrit/packages_apps_OPlusExtras" remote="github" revision="typhoon"/>
 
  <!--Vendor-->
   <project path="vendor/oneplus/avicii" name="AmolAmrit/vendor_oneplus_avicii" remote="gitlab" revision="typhoon"/>
